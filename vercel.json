@@ -1,0 +1,56 @@
+{
+  "redirects": [
+    {
+      "destination": "https://milindmishra.com/blogs",
+      "source": "/(blogs|blog)"
+    },
+    {
+      "destination": "https://milindmishra.com/blogs/:slug",
+      "source": "/blog/:slug"
+    },
+    {
+      "destination": "https://docs.google.com/document/d/1ujYf9MIOEeH3UpaHKZmXm_9-W6XpSQ5LAcLUv0ue32k/preview",
+      "source": "/(resume|cv)"
+    },
+    {
+      "destination": "https://milindmishra.com/socials",
+      "source": "/(socials|social)"
+    },
+    {
+      "destination": "https://github.com/thatbeautifuldream",
+      "source": "/(github|gh)"
+    },
+    {
+      "destination": "https://linkedin.com/in/mishramilind",
+      "source": "/(linkedin|lh|li)"
+    },
+    {
+      "destination": "https://twitter.com/milindmishra_",
+      "source": "/(twitter|tw)"
+    },
+    {
+      "destination": "https://dev.to/milindmishra",
+      "source": "/(devto)"
+    },
+    {
+      "destination": "https://milind.hashnode.dev",
+      "source": "/(hashnode|hn)"
+    },
+    {
+      "destination": "https://instagram.com/thatbeautifuldream",
+      "source": "/(instagram|ig)"
+    },
+    {
+      "destination": "https://cal.com/milind",
+      "source": "/(cal|calender|calendar)"
+    },
+    {
+      "destination": "https://shattereddisk.github.io/rickroll/rickroll.mp4",
+      "source": "/(promise|bye|thanks)"
+    },
+    {
+      "destination": "https://milindmishra.com",
+      "source": "/(.*)"
+    }
+  ]
+}

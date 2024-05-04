@@ -1,3 +1,3 @@
-# URL Shortner for shbm.fyi
+# Redirects
 
-Using [Vercel Redirects](https://vercel.com/docs/project-configuration#project-configuration%2Fredirects=)
+Using [Vercel Redirects](https://vercel.com/docs/project-configuration)

@@ -51,6 +51,10 @@
     {
       "destination": "https://milindmishra.com",
       "source": "/(.*)"
+    },
+    {
+      "destination": "https://discord.gg/Cpcc7ReYzW",
+      "source": "/interciew-prep-gang"
     }
   ]
 }
